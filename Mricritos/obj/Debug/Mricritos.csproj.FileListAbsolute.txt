@@ -1,0 +1,25 @@
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.csprojResolveAssemblyReference.cache
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.exe.config
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.exe
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.pdb
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.exe
+C:\Users\Maxi\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.pdb
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.exe.config
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.exe
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\bin\Debug\Mricritos.pdb
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.csprojResolveAssemblyReference.cache
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.exe
+C:\Users\MaxiOrtiz\Documents\SharpDevelop Projects\Trabajo Final\Mricritos\obj\Debug\Mricritos.pdb
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.exe.config
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.exe
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.pdb
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.csprojResolveAssemblyReference.cache
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.exe
+C:\Users\MaxiOrtiz\Desktop\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.pdb
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.exe.config
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.exe
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\bin\Debug\Mricritos.pdb
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.exe
+C:\Users\pc\Desktop\ProyectoFinalMicritos\ProyectoMicritos\Mricritos\obj\Debug\Mricritos.pdb
